@@ -15,3 +15,14 @@ source venv/bin/activate
 pip install -r requirement.txt
 
 
+https://github.com/palwesh/Admin-Panel.git
+
+only super user can access 
+- users list
+- delete user
+- update user
+- create user
+
+for authentication 
+- using JWT token
+- after login it will provide Token
