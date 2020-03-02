@@ -2,6 +2,8 @@
 Django Admin Panel (User management) with DRF &amp; JWT Token
 
 
+
+
 ### Create Virtual enviornment 
 
 virtualenv -p python3 venv
